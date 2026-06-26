@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "Rust-Exercises"
+name = "Slices"
 version = "0.1.0"
